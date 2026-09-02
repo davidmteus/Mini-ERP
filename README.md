@@ -38,6 +38,9 @@ Mini-ERP/
 ├── login.php
 ├── logout.php
 ├── verificar_login.php
+├── style.css
+├── conexao_exemplo.php
+└── README.md
 Como executar
 Instale o XAMPP.
 Inicie o Apache e o MySQL.
@@ -60,6 +63,3 @@ Este projeto foi desenvolvido para fins de estudo e prática em desenvolvimento 
 Autor
 
 David Mateus
-├── style.css
-├── conexao_exemplo.php
-└── README.md
