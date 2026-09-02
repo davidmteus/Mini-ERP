@@ -24,8 +24,7 @@ Projeto desenvolvido para praticar desenvolvimento de sistemas e integração co
 - Integração com banco de dados MySQL
 
 ## Estrutura do Projeto
-
-```text
+text
 Mini-ERP/
 │
 ├── clientes/
