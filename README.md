@@ -57,22 +57,16 @@ Este projeto foi desenvolvido para fins de estudo e prática em desenvolvimento 
 
 David Mateus
 
-<h2>Demonstração do sistema</h2>
+## Demonstração do sistema
 
-<h3>Tela de Login</h3>
-<img src="fotos-do-projeto/Login.png" alt="Tela de Login">
+Tela de Login
 
-<h3>Dashboard</h3>
-<img src="fotos-do-projeto/Dashboard.png" alt="Dashboard">
+Dashboard
 
-<h3>Produtos</h3>
-<img src="fotos-do-projeto/Produtos.png" alt="Produtos">
+Produtos
 
-<h3>Clientes</h3>
-<img src="fotos-do-projeto/Clientes.png" alt="Clientes">
+Clientes
 
-<h3>Usuários</h3>
-<img src="fotos-do-projeto/Usuários.png" alt="Usuários">
+Usuários
 
-<h3>Vendas</h3>
-<img src="fotos-do-projeto/Vendas.png" alt="Vendas">
+Vendas
