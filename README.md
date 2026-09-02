@@ -56,3 +56,23 @@ Este projeto foi desenvolvido para fins de estudo e prática em desenvolvimento 
 ## Autor
 
 David Mateus
+
+## Demonstração do sistema
+
+### Tela de Login
+![Tela de Login](fotos-do-projeto/Login.png)
+
+### Dashboard
+![Dashboard](fotos-do-projeto/Dashboard.png)
+
+### Produtos
+![Produtos](fotos-do-projeto/Produtos.png)
+
+### Clientes
+![Clientes](fotos-do-projeto/Clientes.png)
+
+### Usuários
+![Usuários](fotos-do-projeto/Usuários.png)
+
+### Vendas
+![Vendas](fotos-do-projeto/Vendas.png)
