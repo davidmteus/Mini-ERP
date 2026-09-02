@@ -59,20 +59,20 @@ David Mateus
 
 ## Demonstração do sistema
 
-### Tela de Login
-<img src="fotos-do-projeto/Login.png" width="800">
+<h3>Tela de Login</h3>
+<img src="fotos-do-projeto/Login.png.png" width="800">
 
-### Dashboard
-<img src="fotos-do-projeto/Dashboard.png" width="800">
+<h3>Dashboard</h3>
+<img src="fotos-do-projeto/Dashboard.png.png" width="800">
 
-### Produtos
-<img src="fotos-do-projeto/Produtos.png" width="800">
+<h3>Produtos</h3>
+<img src="fotos-do-projeto/Produtos.png.png" width="800">
 
-### Clientes
-<img src="fotos-do-projeto/Clientes.png" width="800">
+<h3>Clientes</h3>
+<img src="fotos-do-projeto/Clientes.png.png" width="800">
 
-### Usuários
-<img src="fotos-do-projeto/Usuários.png" width="800">
+<h3>Usuários</h3>
+<img src="fotos-do-projeto/Usuarios.png.png" width="800">
 
-### Vendas
-<img src="fotos-do-projeto/Vendas.png" width="800">
+<h3>Vendas</h3>
+<img src="fotos-do-projeto/Vendas.png.png" width="800">
