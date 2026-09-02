@@ -59,14 +59,20 @@ David Mateus
 
 ## Demonstração do sistema
 
-Tela de Login
+### Tela de Login
+<img src="fotos-do-projeto/Login.png" width="800">
 
-Dashboard
+### Dashboard
+<img src="fotos-do-projeto/Dashboard.png" width="800">
 
-Produtos
+### Produtos
+<img src="fotos-do-projeto/Produtos.png" width="800">
 
-Clientes
+### Clientes
+<img src="fotos-do-projeto/Clientes.png" width="800">
 
-Usuários
+### Usuários
+<img src="fotos-do-projeto/Usuários.png" width="800">
 
-Vendas
+### Vendas
+<img src="fotos-do-projeto/Vendas.png" width="800">
